@@ -23,3 +23,5 @@
 .idea/*
 
 config/config.yml
+
+/config/master.key

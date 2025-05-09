@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+rails s -e production
